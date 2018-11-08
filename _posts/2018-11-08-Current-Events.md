@@ -14,4 +14,4 @@ More than 100 people were at the bar at the time as well.
 
 ![_config.yml]({{ site.baseurl }}/images/corey.jpg)
 
-https://www.wsj.com/articles/multiple-injuries-reported-in-bar-shooting-in-thousand-oaks-california-1541666907
+[full story](https://www.wsj.com/articles/multiple-injuries-reported-in-bar-shooting-in-thousand-oaks-california-1541666907)
